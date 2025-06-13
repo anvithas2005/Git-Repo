@@ -216,3 +216,8 @@ body {
         font-size: 1.1rem;
     }
 }
+
+/* Remove the single-line styles */
+.skills-row, .skill-pill {
+    all: unset;
+}
